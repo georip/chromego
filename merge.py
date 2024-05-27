@@ -4,7 +4,7 @@ import urllib.request
 import yaml
 import codecs
 import logging
-import geoip2.database
+#import geoip2.database
 import socket
 import re
 
@@ -33,18 +33,18 @@ def get_physical_location(address):
     except socket.gaierror:
         ip_address = address
 
-    try:
-        reader = geoip2.database.Reader(
-            "GeoLite2-City.mmdb"
-        )  # 这里的路径需要指向你自己的数据库文件
-        response = reader.city(ip_address)
-        country = response.country.name
-        city = response.city.name
+    #try:
+        # reader = geoip2.database.Reader(
+         #    "GeoLite2-City.mmdb"
+        # )  # 这里的路径需要指向你自己的数据库文件
+        # response = reader.city(ip_address)
+        # country = response.country.name
+        # city = response.city.name
         # return f"{country}_{city}"
-        return f"{country}"
-    except geoip2.errors.AddressNotFoundError as e:
-        print(f"Error: {e}")
-        return "Unknown"
+        # return f"{country}"
+    # except geoip2.errors.AddressNotFoundError as e:
+        # print(f"Error: {e}")
+        # return "Unknown"
 
 
 # 提取clash节点
