@@ -9683,7 +9683,7 @@ proxies:
   network: ws
   servername: ip11.freegradely.xyz
   ws-opts:
-    path: e9e3cc13-db48-4cc1-8c24-7626439a5339-vm
+    path: github.com/Alvin9999
     headers:
       Host: ip11.freegradely.xyz
 - name: meta_vmess_02
@@ -9698,7 +9698,7 @@ proxies:
   network: ws
   servername: ip11.freegradely.xyz
   ws-opts:
-    path: e9e3cc13-db48-4cc1-8c24-7626439a5339-vm
+    path: github.com/Alvin9999
     headers:
       Host: ip11.freegradely.xyz
 - name: meta_vmess_03
@@ -9713,7 +9713,7 @@ proxies:
   network: ws
   servername: ip11.freegradely.xyz
   ws-opts:
-    path: e9e3cc13-db48-4cc1-8c24-7626439a5339-vm
+    path: github.com/Alvin9999
     headers:
       Host: ip11.freegradely.xyz
 - name: meta_vmess_04
@@ -9728,7 +9728,7 @@ proxies:
   network: ws
   servername: ip11.freegradely.xyz
   ws-opts:
-    path: e9e3cc13-db48-4cc1-8c24-7626439a5339-vm
+    path: github.com/Alvin9999
     headers:
       Host: ip11.freegradely.xyz
 - name: meta_vmess_11
@@ -9743,7 +9743,7 @@ proxies:
   network: ws
   servername: doctor-granny-openings-br.trycloudflare.com
   ws-opts:
-    path: d726eb31-0c9e-49f9-8968-59c06f4ea15c-vm
+    path: github.com/Alvin9999
     headers:
       Host: doctor-granny-openings-br.trycloudflare.com
 - name: meta_vmess_12
@@ -9758,7 +9758,7 @@ proxies:
   network: ws
   servername: doctor-granny-openings-br.trycloudflare.com
   ws-opts:
-    path: d726eb31-0c9e-49f9-8968-59c06f4ea15c-vm
+    path: github.com/Alvin9999
     headers:
       Host: doctor-granny-openings-br.trycloudflare.com
 - name: meta_vmess_13
@@ -9773,7 +9773,7 @@ proxies:
   network: ws
   servername: doctor-granny-openings-br.trycloudflare.com
   ws-opts:
-    path: d726eb31-0c9e-49f9-8968-59c06f4ea15c-vm
+    path: github.com/Alvin9999
     headers:
       Host: doctor-granny-openings-br.trycloudflare.com
 - name: meta_vmess_14
@@ -9788,7 +9788,7 @@ proxies:
   network: ws
   servername: doctor-granny-openings-br.trycloudflare.com
   ws-opts:
-    path: d726eb31-0c9e-49f9-8968-59c06f4ea15c-vm
+    path: github.com/Alvin9999
     headers:
       Host: doctor-granny-openings-br.trycloudflare.com
 - name: meta_vmess_21
@@ -9803,7 +9803,7 @@ proxies:
   network: ws
   servername: ip002.freegradely.xyz
   ws-opts:
-    path: 29eebb60-b27b-4a9d-bba5-947763d9205e-vm
+    path: github.com/Alvin9999
     headers:
       Host: ip002.freegradely.xyz
 - name: meta_vmess_22
@@ -9818,7 +9818,7 @@ proxies:
   network: ws
   servername: ip002.freegradely.xyz
   ws-opts:
-    path: 29eebb60-b27b-4a9d-bba5-947763d9205e-vm
+    path: github.com/Alvin9999
     headers:
       Host: ip002.freegradely.xyz
 - name: meta_vmess_23
@@ -9833,7 +9833,7 @@ proxies:
   network: ws
   servername: ip002.freegradely.xyz
   ws-opts:
-    path: 29eebb60-b27b-4a9d-bba5-947763d9205e-vm
+    path: github.com/Alvin9999
     headers:
       Host: ip002.freegradely.xyz
 - name: meta_vmess_24
@@ -9848,7 +9848,7 @@ proxies:
   network: ws
   servername: ip002.freegradely.xyz
   ws-opts:
-    path: 29eebb60-b27b-4a9d-bba5-947763d9205e-vm
+    path: github.com/Alvin9999
     headers:
       Host: ip002.freegradely.xyz
 - name: meta_vmess_31
@@ -9863,7 +9863,7 @@ proxies:
   network: ws
   servername: ip002-3.dtku47.xyz
   ws-opts:
-    path: 29eebb60-b27b-4a9d-bba5-947763d9205e-vm
+    path: github.com/Alvin9999
     headers:
       Host: ip002-3.dtku47.xyz
 - name: meta_vmess_32
@@ -9878,7 +9878,7 @@ proxies:
   network: ws
   servername: ip002-3.dtku47.xyz
   ws-opts:
-    path: 29eebb60-b27b-4a9d-bba5-947763d9205e-vm
+    path: github.com/Alvin9999
     headers:
       Host: ip002-3.dtku47.xyz
 - name: meta_vmess_33
@@ -9893,7 +9893,7 @@ proxies:
   network: ws
   servername: ip002-3.dtku47.xyz
   ws-opts:
-    path: 29eebb60-b27b-4a9d-bba5-947763d9205e-vm
+    path: github.com/Alvin9999
     headers:
       Host: ip002-3.dtku47.xyz
 - name: meta_vmess_34
@@ -9908,7 +9908,7 @@ proxies:
   network: ws
   servername: ip002-3.dtku47.xyz
   ws-opts:
-    path: 29eebb60-b27b-4a9d-bba5-947763d9205e-vm
+    path: github.com/Alvin9999
     headers:
       Host: ip002-3.dtku47.xyz
 - name: meta_vmess_41
@@ -9923,7 +9923,7 @@ proxies:
   network: ws
   servername: ip002-2.dtku47.xyz
   ws-opts:
-    path: 29eebb60-b27b-4a9d-bba5-947763d9205e-vm
+    path: github.com/Alvin9999
     headers:
       Host: ip002-2.dtku47.xyz
 - name: meta_vmess_42
@@ -9938,7 +9938,7 @@ proxies:
   network: ws
   servername: ip002-2.dtku47.xyz
   ws-opts:
-    path: 29eebb60-b27b-4a9d-bba5-947763d9205e-vm
+    path: github.com/Alvin9999
     headers:
       Host: ip002-2.dtku47.xyz
 - name: meta_vmess_43
@@ -9953,7 +9953,7 @@ proxies:
   network: ws
   servername: ip002-2.dtku47.xyz
   ws-opts:
-    path: 29eebb60-b27b-4a9d-bba5-947763d9205e-vm
+    path: github.com/Alvin9999
     headers:
       Host: ip002-2.dtku47.xyz
 - name: meta_vmess_44
@@ -9968,7 +9968,7 @@ proxies:
   network: ws
   servername: ip002-2.dtku47.xyz
   ws-opts:
-    path: 29eebb60-b27b-4a9d-bba5-947763d9205e-vm
+    path: github.com/Alvin9999
     headers:
       Host: ip002-2.dtku47.xyz
 - name: meta_vless_51
@@ -10141,7 +10141,7 @@ proxies:
   network: ws
   servername: ip5-4.freegradely.xyz
   ws-opts:
-    path: d726eb31-0c9e-49f9-8968-59c06f4ea15c-vm
+    path: github.com/Alvin9999
     headers:
       Host: ip5-4.freegradely.xyz
 - name: meta_vmess_142
@@ -10156,7 +10156,7 @@ proxies:
   network: ws
   servername: ip5-4.freegradely.xyz
   ws-opts:
-    path: d726eb31-0c9e-49f9-8968-59c06f4ea15c-vm
+    path: github.com/Alvin9999
     headers:
       Host: ip5-4.freegradely.xyz
 - name: meta_vmess_143
@@ -10171,7 +10171,7 @@ proxies:
   network: ws
   servername: ip5-4.freegradely.xyz
   ws-opts:
-    path: d726eb31-0c9e-49f9-8968-59c06f4ea15c-vm
+    path: github.com/Alvin9999
     headers:
       Host: ip5-4.freegradely.xyz
 - name: meta_vmess_144
@@ -10186,7 +10186,7 @@ proxies:
   network: ws
   servername: ip5-4.freegradely.xyz
   ws-opts:
-    path: d726eb31-0c9e-49f9-8968-59c06f4ea15c-vm
+    path: github.com/Alvin9999
     headers:
       Host: ip5-4.freegradely.xyz
 - name: meta_vless_151
