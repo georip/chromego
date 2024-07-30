@@ -9960,8 +9960,8 @@ proxies:
 - name: hysteria_0
   type: hysteria
   server: 38.135.52.192
-  port: 23456
-  ports: 23456
+  port: 10451
+  ports: 30000-40000
   auth_str: dongtaiwang.com
   up: 80
   down: 100
@@ -9974,8 +9974,8 @@ proxies:
 - name: hysteria_1
   type: hysteria
   server: 38.135.52.192
-  port: 23456
-  ports: 23456
+  port: 10451
+  ports: 30000-40000
   auth_str: dongtaiwang.com
   up: 80
   down: 100
@@ -9988,8 +9988,8 @@ proxies:
 - name: hysteria_2
   type: hysteria
   server: 38.135.52.192
-  port: 23456
-  ports: 23456
+  port: 10451
+  ports: 30000-40000
   auth_str: dongtaiwang.com
   up: 80
   down: 100
@@ -10002,8 +10002,8 @@ proxies:
 - name: hysteria_3
   type: hysteria
   server: 38.135.52.192
-  port: 23456
-  ports: 23456
+  port: 10451
+  ports: 30000-40000
   auth_str: dongtaiwang.com
   up: 80
   down: 100
