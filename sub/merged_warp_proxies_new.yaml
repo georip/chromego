@@ -9355,6 +9355,34 @@ proxies:
   skip-cert-verify: true
   alpn:
   - h3
+- name: reality_0
+  type: vless
+  server: 108.181.3.68
+  port: 52562
+  uuid: 47b8b611-9e64-4d59-a1ef-b51b3ffc0cae
+  network: tcp
+  tls: true
+  udp: true
+  flow: xtls-rprx-vision
+  client-fingerprint: chrome
+  servername: www.amazon.com
+  reality-opts:
+    public-key: qvdphcXh7EkRcfJ7XXB5v0KH9e2RqZQhL2QNyLQdsm8
+    short-id: ''
+- name: reality_3
+  type: vless
+  server: 108.181.3.68
+  port: 52562
+  uuid: 47b8b611-9e64-4d59-a1ef-b51b3ffc0cae
+  network: tcp
+  tls: true
+  udp: true
+  flow: xtls-rprx-vision
+  client-fingerprint: chrome
+  servername: www.amazon.com
+  reality-opts:
+    public-key: qvdphcXh7EkRcfJ7XXB5v0KH9e2RqZQhL2QNyLQdsm8
+    short-id: ''
 proxy-groups:
 - name: 🚀 节点选择
   type: select
@@ -9984,6 +10012,8 @@ proxy-groups:
   - hysteria_1
   - hysteria_2
   - hysteria_3
+  - reality_0
+  - reality_3
 - name: WARP前置节点
   type: select
   proxies:
@@ -10611,6 +10641,8 @@ proxy-groups:
   - hysteria_1
   - hysteria_2
   - hysteria_3
+  - reality_0
+  - reality_3
 - name: 📲 电报消息
   type: select
   proxies:

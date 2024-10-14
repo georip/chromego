@@ -6,6 +6,7 @@ hysteria://46.29.166.206:100?peer=www.bing.com&auth=&insecure=1&upmbps=50&downmb
 hysteria://clash1.dtku47.xyz:11223?peer=&auth=O5tQQiW2xKf5&insecure=0&upmbps=50&downmbps=80&alpn=h3&mport=11223&obfs=&protocol=udp&fastopen=1
 hysteria://hy1.dtku47.xyz:22334?peer=&auth=lASdKzWK0VxL&insecure=0&upmbps=50&downmbps=80&alpn=h3&mport=22334&obfs=&protocol=udp&fastopen=1
 hysteria://hy2.dtku47.xyz:15566?peer=&auth=jQrGpwSqp34P&insecure=0&upmbps=50&downmbps=80&alpn=h3&mport=15566&obfs=&protocol=udp&fastopen=1
+vless://47b8b611-9e64-4d59-a1ef-b51b3ffc0cae@108.181.3.68:52562?security=reality&allowInsecure=0&flow=xtls-rprx-vision&type=tcp&fp=chrome&pbk=qvdphcXh7EkRcfJ7XXB5v0KH9e2RqZQhL2QNyLQdsm8&sid=&sni=www.amazon.com&serviceName=&path=&host=
 vmess://18d96190-c10f-448f-a82a-2d36df5c3cde@104.17.106.151:2095?security=none&allowInsecure=0&type=ws&sni=ip9.6016725.xyz&path=github.com/Alvin9999&host=
 vmess://18d96190-c10f-448f-a82a-2d36df5c3cde@104.18.57.111:2095?security=none&allowInsecure=0&type=ws&sni=ip9.6016725.xyz&path=github.com/Alvin9999&host=
 vmess://18d96190-c10f-448f-a82a-2d36df5c3cde@104.19.123.11:2095?security=none&allowInsecure=0&type=ws&sni=ip9.6016725.xyz&path=github.com/Alvin9999&host=
