@@ -5,7 +5,7 @@ hysteria://46.17.43.223:64907,30000-40000?peer=bing.com&auth=dongtaiwang.com&ins
 hysteria://clash1.dtku47.xyz:11223?peer=&auth=O5tQQiW2xKf5&insecure=0&upmbps=50&downmbps=80&alpn=h3&mport=11223&obfs=&protocol=udp&fastopen=1
 hysteria://hy1.dtku47.xyz:22334?peer=&auth=lASdKzWK0VxL&insecure=0&upmbps=50&downmbps=80&alpn=h3&mport=22334&obfs=&protocol=udp&fastopen=1
 hysteria://hy2.dtku47.xyz:15566?peer=&auth=jQrGpwSqp34P&insecure=0&upmbps=50&downmbps=80&alpn=h3&mport=15566&obfs=&protocol=udp&fastopen=1
-vless://ff7b0d54-ecdf-4ff1-be04-f8fd11693ba2@46.29.166.206:400?security=reality&allowInsecure=0&flow=xtls-rprx-vision&type=tcp&fp=chrome&pbk=bzpKT_Fgsm2k0oAe5SXJmbQN8OxK4AA4NR42yqM-hnI&sid=&sni=www.paypal.com&serviceName=&path=&host=
+vless://ef6706c2-ac66-4c39-bf16-208effa86922@46.29.166.206:49887?security=reality&allowInsecure=0&flow=xtls-rprx-vision&type=tcp&fp=chrome&pbk=bBX2IBet-d-kWJ7sb_49zVaem3iTAw5jIwQL4JGDuEg&sid=&sni=www.paypal.com&serviceName=&path=&host=
 vmess://18d96190-c10f-448f-a82a-2d36df5c3cde@104.17.106.151:2095?security=none&allowInsecure=0&type=ws&sni=ip23.6016725.xyz&path=github.com/Alvin9999&host=
 vmess://18d96190-c10f-448f-a82a-2d36df5c3cde@104.18.57.111:2095?security=none&allowInsecure=0&type=ws&sni=ip23.6016725.xyz&path=github.com/Alvin9999&host=
 vmess://18d96190-c10f-448f-a82a-2d36df5c3cde@104.19.123.11:2095?security=none&allowInsecure=0&type=ws&sni=ip23.6016725.xyz&path=github.com/Alvin9999&host=
