@@ -28,7 +28,6 @@ proxy-groups:
 - name: 🚀 节点选择
   type: select
   proxies:
-  - meta_hysteria_01
   - meta_hysteria_11
   - meta_hysteria_21
   - meta_vmess_31
@@ -9651,16 +9650,6 @@ rules:
 - GEOIP,CN,🎯 全球直连
 - MATCH,🐟 漏网之鱼
 proxies:
-- name: meta_hysteria_01
-  type: hysteria
-  server: hy2.dtku47.xyz
-  port: 15566
-  auth-str: jQrGpwSqp34P
-  alpn:
-  - h3
-  protocol: udp
-  up: 50 Mbps
-  down: 100 Mbps
 - name: meta_hysteria_11
   type: hysteria
   server: clash1.dtku47.xyz
