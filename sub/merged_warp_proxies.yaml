@@ -189,20 +189,20 @@ proxies:
   down: 55 Mbps
 - name: meta_hysteria_91
   type: hysteria
-  server: 185.22.155.71
-  port: 10803
+  server: 172.245.235.201
+  port: 38814
   auth_str: dongtaiwang.com
   alpn:
   - h3
-  sni: www.bing.com
+  sni: apple.com
   skip-cert-verify: true
   up: 11 Mbps
   down: 55 Mbps
 - name: hysteria_0
   type: hysteria
-  server: 185.22.155.71
-  port: 10803
-  ports: 10803
+  server: 172.245.235.201
+  port: 38814
+  ports: 38814
   auth_str: dongtaiwang.com
   up: 80
   down: 100
@@ -214,9 +214,9 @@ proxies:
   - h3
 - name: hysteria_1
   type: hysteria
-  server: 185.22.155.71
-  port: 10803
-  ports: 10803
+  server: 172.245.235.201
+  port: 38814
+  ports: 38814
   auth_str: dongtaiwang.com
   up: 80
   down: 100
@@ -228,9 +228,9 @@ proxies:
   - h3
 - name: hysteria_2
   type: hysteria
-  server: 185.22.155.71
-  port: 10803
-  ports: 10803
+  server: 172.245.235.201
+  port: 38814
+  ports: 38814
   auth_str: dongtaiwang.com
   up: 80
   down: 100
@@ -242,9 +242,9 @@ proxies:
   - h3
 - name: hysteria_3
   type: hysteria
-  server: 185.22.155.71
-  port: 10803
-  ports: 10803
+  server: 172.245.235.201
+  port: 38814
+  ports: 38814
   auth_str: dongtaiwang.com
   up: 80
   down: 100
